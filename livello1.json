@@ -1,71 +1,57 @@
 [
  {
-   "ID": "b1e0ae33-d8b1-4e00-8401-066014b3887a",
    "Value": "Carate Brianza",
    "Alias": "carate-brianza"
  },
  {
-   "ID": "a309d2b9-b98a-4b79-98f9-192302dfc23f",
    "Value": "Lissone",
    "Alias": "lissone"
  },
  {
-   "ID": "f3505bc4-aea4-4583-b7b6-2aa2002c7e93",
    "Value": "Desio",
    "Alias": "desio"
  },
  {
-   "ID": "3ea53ca9-1c9e-44e8-a073-3a26742e69b5",
    "Value": "Muggio'",
    "Alias": "muggio"
  },
  {
-   "ID": "c501557c-ce02-4df2-a58d-41cdb5be2dea",
    "Value": "Bovisio Masciago",
    "Alias": "bovisio-masciago"
  },
  {
-   "ID": "d0ac224f-908b-4a2c-a1a0-44a07cf193cb",
    "Value": "Seregno",
    "Alias": "seregno"
  },
  {
-   "ID": "d8e504e9-01bf-4070-9875-5231517d527b",
    "Value": "Monza",
    "Alias": "monza"
  },
  {
-   "ID": "915f7b30-b690-4845-9dbd-53803be396fe",
    "Value": "Nova Milanese",
    "Alias": "nova-milanese"
  },
  {
-   "ID": "74760811-85c8-445d-9ce7-835d0686a6ec",
    "Value": "Limbiate",
    "Alias": "limbiate"
  },
  {
-   "ID": "48c87894-27f6-48aa-bfbb-89a3dc9b9363",
    "Value": "Brugherio",
    "Alias": "brugherio"
  },
  {
-   "ID": "40ec324d-ba06-4497-95cd-9ad544564525",
    "Value": "Cesano Maderno",
    "Alias": "cesano-maderno"
  },
  {
-   "ID": "4899aaf1-7639-4285-a220-b892c3c4fa95",
    "Value": "Giussano",
    "Alias": "giussano"
  },
  {
-   "ID": "2cd5c736-84fb-44ea-9093-c14f34dca0e6",
    "Value": "Varedo",
    "Alias": "varedo"
  },
  {
-   "ID": "15a6ac02-cfeb-483c-a319-d5fc1d31ac03",
    "Value": "~ Utilità",
    "Alias": "utility"
  }
