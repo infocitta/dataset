@@ -1,0 +1,66 @@
+[
+ {
+   "Value": "Asilo nido",
+   "Alias": "asilo_nido"
+ },
+ {
+   "Value": "~ Comune",
+   "Alias": "comune"
+ },
+ {
+   "Value": "Libri in Transito",
+   "Alias": "libri"
+ },
+ {
+   "Value": "Uffici pubblici",
+   "Alias": "ufficio_pubblico"
+ },
+ {
+   "Value": "Locali NoSlot",
+   "Alias": "no_slot"
+ },
+ {
+   "Value": "Pediatra",
+   "Alias": "pediatra"
+ },
+ {
+   "Value": "Servizi Telegram",
+   "Alias": "telegram"
+ },
+ {
+   "Value": "Veterinario",
+   "Alias": "veterinario"
+ },
+ {
+   "Value": "Trasporti",
+   "Alias": "trasporto"
+ },
+ {
+   "Value": "Prodotti per vegani",
+   "Alias": "vegani"
+ },
+ {
+   "Value": "Calendario",
+   "Alias": "calendario"
+ },
+ {
+   "Value": "Medico di famiglia",
+   "Alias": "medico"
+ },
+ {
+   "Value": "Sanitaria",
+   "Alias": "sanitaria"
+ },
+ {
+   "Value": "Mercati",
+   "Alias": "mercato"
+ },
+ {
+   "Value": "Scuola materna",
+   "Alias": "scuola_materna"
+ },
+ {
+   "Value": "Gestione Rifiuti",
+   "Alias": "rifiuti"
+ }
+]
